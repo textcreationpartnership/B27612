@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>On the death of the Queen an ode.</title>
+         </titleStmt>
+         <extent>Approx. 12KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B27612</idno><idno type="EEBO-CITATION">31355623</idno>
+  <idno type="VID">205951</idno>
+  <idno type="EEBO-PROQUEST">2240897766</idno>
+  
+            <idno type="STC">Wing O311A</idno>
+            <idno type="OCLC">31355623</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B27612)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205951)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1750:37)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>On the death of the Queen an ode.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1695?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.)</note>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Mary --  II, --  Queen of England, 1662-1694 --  Poetry.</term>
+               <term type="genre_form">Broadsides --  London (England) --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ode">
+            <pb facs="tcp:205951:1"/>
+            <pb n="1" facs="tcp:205951:1"/>
+            <head>ON THE DEATH OF THE QUEEN AN ODE</head>
+            <lg>
+               <l>HAil, grief struck't Muse, O rouse a pace!</l>
+               <l>Sorrow pour'd furth, may give thee some solace:</l>
+               <l>Rouse and shake off Astonishment,</l>
+               <l>Unbowel straight, let anguish vent,</l>
+               <l>Grief great like thine, tears, rends, yea kills, when closly pent;</l>
+               <l>Yet let thy mourning Tune, I pray,</l>
+               <l>Be tempered with a fair Essay,</l>
+               <l>To blend thy Sorrows with some grains of joy</l>
+               <l>Taken from Hopes meek alloy:</l>
+               <l>No higher Pow'rs thou needs invock,</l>
+               <l>To help thee at this mourning Schock,</l>
+               <l>Nor influence, thee to inspire;</l>
+               <l>But to be warm'd with true Coelestial Fire:</l>
+               <l>Or bend thy whole Desire</l>
+               <l>To get a sparkle of that glorious Light,</l>
+               <l>With which on earth she glow'd, but now in Heav'n shines bright.</l>
+            </lg>
+            <lg n="2">
+               <head>2.</head>
+               <l>Hence flashy strains begone and flaunts of hollow witt,</l>
+               <l>Such bagatels, doth not this Subject fit▪</l>
+               <pb facs="tcp:205951:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="1" facs="tcp:205951:2"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:205951:3"/>
+               <l>Grief-beaten Muse if thou would fain</l>
+               <l>Rally thy scattered force again:</l>
+               <l>Would thou yet sparkle with a blazing vein:</l>
+               <l>Then let thy bold career,</l>
+               <l>Let thy Parade, thy tour be here,</l>
+               <l>A soaring, lofty, solid strain,</l>
+               <l>A strain that may by this Disaster show</l>
+               <l>The vanity of all things here below:</l>
+               <l>A strain that may rouse Men immer'st in Sensualitie,</l>
+               <l>And let all by this vive Example see</l>
+               <l>What it is alone that can</l>
+               <l>The raking, aiming, vast Desires of Man,</l>
+               <l>Compleatly satisfie.</l>
+               <l>My stupifi'd Muse streight alarm'd,</l>
+               <l>And with the great Design, O strangely charm'd,</l>
+               <l>Well weighing all the Circumstances,</l>
+               <l>'Twixt Hope and Grief, 'twixt Pain and Ease,</l>
+               <l>Still begging Mercy if her Zeal displease,</l>
+               <l>Thus in the bold Adventure she ingenuously advances.</l>
+            </lg>
+            <lg n="3">
+               <head>(3)</head>
+               <l>VAin Man, whose dazeling glistering gaietle</l>
+               <l>Soon crumbl'd down to humble and vile dust we see:</l>
+               <l>And thou the Pride of humane Glory, Majesty,</l>
+               <l>Poor Majesty, alas! how soon thou may</l>
+               <l>Dwindle to cold, yea into loathsome Clay:</l>
+               <l>And thou shamm World's a meer toy,</l>
+               <l>That with thy Hopes does starve or cloy,</l>
+               <l>And at the best thy pageant pomps does bait</l>
+               <l>With glister, that doth fade and blast in a meer cheat.</l>
+            </lg>
+            <lg n="4">
+               <head>(4)</head>
+               <l>O what a Stage of woful Miseries,</l>
+               <l>And what a Mass of meer Absurdities,</l>
+               <l>Must Man be, if his Hopes be bounded here▪</l>
+               <l>And nothing more left him for future Hope or Fe<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r?</l>
+               <pb n="3" facs="tcp:205951:3"/>
+               <l>But we may truely call,</l>
+               <l>Bright Majesty the greatest mock of all,</l>
+               <l>That's sure by Death to catch the sorest fall,</l>
+               <l>From highest splendor plung'd down to the darkest Cell</l>
+               <l>Of an eternal Nothing, what a grievious knell</l>
+               <l>Must this to great Ones give, who own no Heav'n no Hell?</l>
+            </lg>
+            <lg n="5">
+               <head>(5)</head>
+               <l>Of all the various Works of this vast frame of Nature,</l>
+               <l>Man must be the most wretcht and forlorn Creature,</l>
+               <l>If all his carking Care and Hope</l>
+               <l>Be here at the full brim and top:</l>
+               <l>When all he grasps at here</l>
+               <l>Makes him a constant Scene of Torture Grief and Fear,</l>
+               <l>If his Content and Happiness be here at the full hight.</l>
+               <l>Then soaring Man's indeed a meer compleat unhappy Wight,</l>
+               <l>And in that case we may suspect</l>
+               <l>That the Creator's a mean Architect,</l>
+               <l>That sent his Master-piece forth with so great defect:</l>
+               <l>While all besides gives perfect Harmonie</l>
+               <l>Must the poor stripling Man confounded discord, Jargon be,</l>
+               <l>Here wanring Objects-proper to suffice</l>
+               <l>His prying Pow'rs and touring Faculties,</l>
+               <l>For all his eager vehemence and bent,]</l>
+               <l>He still doth aim, bur hits short of his wish'd content.</l>
+            </lg>
+            <lg n="6">
+               <head>6</head>
+               <l>NOW meaner Splendors aim you to be wise,</l>
+               <l>Then copy after Her, whom nothing vain e're did entise,</l>
+               <l>Who did beyond Earth's Glories some more solid prize,</l>
+               <l>Who though envi<gap reason="illegible" resp="#murp" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>'d with the fauning charms of pleasures,</l>
+               <l>Liv'd by the safe and surest measures</l>
+               <l>Of future Hopes, a Scepter sway'd so ev'n,</l>
+               <l>So wore a Crown on Earth, that to Her might be giv'n</l>
+               <l>A thousand, thousand times, more glorious Ones in Heav'n.</l>
+            </lg>
+            <pb n="4" facs="tcp:205951:4"/>
+            <lg n="7">
+               <head>7.</head>
+               <l>O Mortals! for her sake that is gone hence,</l>
+               <l>Can you a while strain, and abstract from sense,</l>
+               <l>To view the great Reward of Recompence<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>:</l>
+               <l>Things Ear ne're heard, nor ever Eye hath seen,</l>
+               <l>Nor in the Heart of man conceiv'd have ever been:</l>
+               <l>Yet if you can a while entrance,</l>
+               <l>You may perhaps reach a faint glance,</l>
+               <l>Or a dark shadow of that heav'nly chear:</l>
+               <l>Consider when you wonders great admire,</l>
+               <l>Or when you are in any wise</l>
+               <l>Struck't in a charming sweet surprise.</l>
+               <l>When a surprise rejoyces you with wonder,</l>
+               <l>How do you feel, then pray, what pleasurs are you under</l>
+            </lg>
+            <lg n="8">
+               <head>8.</head>
+               <l>Then Mortals what think ye,</l>
+               <l>Of joys that are all <hi>Enthusiasm Extasie</hi>
+               </l>
+               <l>Where wondrous wonders do surprise eternally!</l>
+               <l>Wonders in boundless numbers and in charms</l>
+               <l>There croud in everlasting Swarms:</l>
+               <l>There Joys ne'er cloy, nor ever spend,</l>
+               <l>All bounds and measures tney transcend:</l>
+               <l>There the whole <hi>Scenes</hi> that do present</l>
+               <l>Are worthy of a pow'r indeed omnipotent,</l>
+               <l>That can the boundless Appetite,</l>
+               <l>Sarisfy with full delight:</l>
+               <l>And in a word, boundless desires have there, Omnipotent</l>
+               <l>Power still on work to forge them ravishing content.</l>
+            </lg>
+            <lg n="9">
+               <head>(9)</head>
+               <l>How admirable are the Rap'ts! O how magnifick!</l>
+               <l>Is the pure Vision beatifick?</l>
+               <l>The poynant salies of seraphick Love</l>
+               <l>What high flown Transports at each glance they move!</l>
+               <pb n="5" facs="tcp:205951:4"/>
+               <l>Strange Emanations where the beams and rays</l>
+               <l>Volies rebound, eternal Praise,</l>
+               <l>When engulf't in divine Caresses wholly,</l>
+               <l>The Soul still echoes <hi>Holy, Holy, Holy,</hi>
+               </l>
+               <l>Who was, who is, who ever more shall be,</l>
+               <l>The First and Last, Him bliss all Saints eternally.</l>
+            </lg>
+            <lg n="10">
+               <head>(10)</head>
+               <l>The most sublim'd extract or refin'd quintessence</l>
+               <l>Of pleasures of the Earth and Sense,</l>
+               <l>Are but a shadow faint</l>
+               <l>Of these prepared for rhe meanest Saint,</l>
+               <l>How then stupenduous think ye</l>
+               <l>Must these admirable great Glories be</l>
+               <l>The Mansions furnish'd, and the State prepar'd for such heroick Saints as she.</l>
+            </lg>
+            <lg n="11">
+               <head>(11)</head>
+               <l>If all the Glorifi'd have their Dignity and State,</l>
+               <l>Advanc'd and highten'd at the rate</l>
+               <l>They have been on the Earth in Goodness large and Great,</l>
+               <l>What Glories then must needs attend</l>
+               <l>A sainted Queen, who did transcend</l>
+               <l>Her high state Grandour and Descent</l>
+               <l>By virtue more sublime by far, and far more eminent?</l>
+            </lg>
+            <lg n="12">
+               <head>(12)</head>
+               <l>All flights of humane Witt amazing droup and vail,</l>
+               <l>Dare not to parcel Her in the retail,</l>
+               <l>Her whose great Eminence did in proportion ly,</l>
+               <l>And in Her Virtues uniformity;</l>
+               <l>Beaties that stand in due proportion feature</l>
+               <l>In pieces ta'en, they mangle still the fairest Creature:</l>
+               <l>Then in the whole and platt; you have Her true</l>
+               <l>Transcendant and surprizing view.</l>
+               <l>How great how uniform a Radiancy</l>
+               <l>Gives join'd with verteous Saint-ship sacred Majesty?</l>
+               <pb n="6" facs="tcp:205951:5"/>
+               <l>These in conjunction Men amaze into a noble awe</l>
+               <l>Of heavenly as well as of humane Law.</l>
+               <l>Princes do by Example give</l>
+               <l>The strongest Perswasives how meaner Men should live:</l>
+               <l>We always find true Pietie</l>
+               <l>In Soveraignity so much inherent,</l>
+               <l>No King without it e'er can be,</l>
+               <l>GOD's true, but His meer mock Vicegerent:</l>
+               <l>Dare they Heav'ns Deputation plead</l>
+               <l>Who throw off all Heav'ns Fear and Dread?</l>
+               <l>Pretend they thence Commision</l>
+               <l>Who all Obeysance do disclaim, thereto refuse submission?</l>
+               <l>Heav'ns Darling then and best beloved Minion</l>
+               <l>A compleat Title had to Her triple Dominion.</l>
+            </lg>
+            <lg n="13">
+               <head>(13)</head>
+               <l>Now Muse, I dread thou may a pace</l>
+               <l>Damm up thy Sorrows at the thought of Her great Happiness,</l>
+               <l>Were it not at poor Mortals cost alas,</l>
+               <l>A Happiness so great nought can express,</l>
+               <l>Or equal, in its greatness, but our loss:</l>
+               <l>O! but wise Providence seems cross,</l>
+               <l>And in a Riddle stips! when here</l>
+               <l>One thing doth with such different views appear:</l>
+               <l>The Soul whose aspect gives so bright above</l>
+               <l>Should in reverse on Earth nought but black Anguish move:</l>
+               <l>To make the odes in this strange Matter ev'n,</l>
+               <l>This plain Solution may be giv'n.</l>
+            </lg>
+            <lg n="14">
+               <head>(14)</head>
+               <l>
+                  <hi>Brittain</hi> has ne'er such a crown'd Female seen;</l>
+               <l>So ne'er deserv'd to keep that Queen:</l>
+               <l>Sure Guilt that wearied out long-suffering Patience</l>
+               <l>Alone removed her from hence:</l>
+               <pb n="7" facs="tcp:205951:5"/>
+               <l>Justice it was decreed in the Conclave of Heav'n,</l>
+               <l>That this grand master-piece Stroak must alas to Earth be gi<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>'n:</l>
+               <l>Yea, by a fervent tendency and bent</l>
+               <l>She's flown to Heav'n Her Element,</l>
+               <l>As Weight down goes, Flame upward bends,</l>
+               <l>And each thing to its proper Center tends:</l>
+               <l>What can Laws fixt controul</l>
+               <l>Or stop the eager flight of a Heav'n-ward aspiring Soul;</l>
+               <l>No wonder then that She's so quickly gone</l>
+               <l>When Press and Bensil thereto join their power in one.</l>
+               <l>And Heav'n rejoice, but Earth be left to moan:</l>
+            </lg>
+            <lg n="15">
+               <head>(15)</head>
+               <l>But Courage <hi>Hero,</hi> grieve not at the rate,</l>
+               <l>As if Her Fate</l>
+               <l>Were to be quite annihilat;</l>
+               <l>Or as You grudg'd Her early Happiness</l>
+               <l>'Cause She's out-stript, You in Her Race to bliss:</l>
+               <l>It's Guilt alone gives Men great cause to grieve,</l>
+               <l>Deep Sorrow may polluted Souls relieve:</l>
+               <l>Then at this Schock You truly may</l>
+               <l>Stand closs to Your wonted Tranquillity,</l>
+               <l>And brighten pale Grief with a calm Serenity:</l>
+               <l>This is a Champion Bravery,</l>
+               <l>It gives the air of high Majestick State,</l>
+               <l>Thus You atchieve a true and grand heroick Fate</l>
+               <l>In discipline of Christian Chevaulry,</l>
+               <l>Which far out-weighs all other kind of Gallantry,</l>
+               <l>And in a Prince above all gives a sublime decency.</l>
+            </lg>
+            <lg n="16">
+               <head>(16)</head>
+               <l>Great Souls for great and equal Ends created are;</l>
+               <l>A<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>swage then discord Grief, pray do not marr</l>
+               <l>
+                  <gap reason="illegible" resp="#murp" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>v'ns Notes of concord with Thy uncouth jarr,</l>
+               <pb n="8" facs="tcp:205951:6"/>
+               <l>And Heav'ns pure Harmony;</l>
+               <l>But let his Fates a Consort Chim of high flown Melody:</l>
+               <l>So prosper Monarch in the double Charge</l>
+               <l>Of Royal Cares Her Death to You to You alone bequeaths,</l>
+               <l>Heav'n in proportion will Your Crown inlarge</l>
+               <l>With everlasting glorious <hi>Palms</hi> with <hi>Bays</hi> and <hi>Wreaths.</hi>
+               </l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:205951:6"/>
+         </div>
+      </body>
+   </text>
+</TEI>
